@@ -1,4 +1,4 @@
-**Jarvis AI**
+# Jarvis AI
 
 Jarvis AI is a JavaScript-based virtual assistant that aims to simplify your daily tasks using natural language processing and machine learning techniques. Whether you want to automate repetitive tasks, control your smart home devices, or fetch information from the web, Jarvis AI is here to help.
 
@@ -14,7 +14,7 @@ Jarvis AI is a JavaScript-based virtual assistant that aims to simplify your dai
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Arun020/Jarvis-AI.git
+   git clone https://github.com/swayam02072001/Jarvis-AI.git
    ```
 
 2. Install dependencies:
